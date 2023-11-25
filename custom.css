@@ -1,0 +1,75 @@
+html,
+body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: #e9ecef;
+}
+
+
+main{
+    flex: 1 0 auto;
+}
+
+.hero-txt{
+    font-size: 4vw;
+    opacity: .75;
+    font-weight: bold;
+    font-family: 'Graffiti font', sans-serif;
+}
+
+.pix{
+    opacity: 0.9; 
+}
+
+header {
+    background: no-repeat center center;
+    background-size: cover;
+    color: #f8f9fa;
+}
+
+.color-overlay {
+    background-color: rgba(0, 0, 0, 0.4);
+    min-height: 60vh;
+}
+
+.singleCol {
+    max-width: 750px;
+
+}
+
+.btn-outline-dark{
+    background-color: white;
+}
+
+a.btn-outline-dark:hover{
+    background-color: #dfd4ab;
+    color: black;
+}
+
+footer {
+    background-color: #202632;
+
+}
+
+footer{
+    flex-shrink: 0;
+}
+footer a {
+    color: white;
+
+}
+
+footer a:hover {
+    color: #dfdfdf;
+
+}
+
+@media (max-width: 767.98px) {
+    .color-overlay {
+        min-height: 30vh;
+    }
+}

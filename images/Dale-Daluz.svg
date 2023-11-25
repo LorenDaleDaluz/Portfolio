@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2803" height="928" viewBox="0 0 2803 928">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 25px;
+        fill: #202020;
+        text-anchor: middle;
+      }
+
+      .cls-1 {
+        font-family: Gotham;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-family: "Gotham Thin";
+      }
+    </style>
+  </defs>
+  <text id="Dale_Daluz" data-name="Dale Daluz" class="cls-1" transform="matrix(21.048, 0, 0, 21.051, 1393.164, 386.628)"><tspan x="0">Dale Daluz</tspan></text>
+  <text id="DESIGNS" class="cls-2" transform="matrix(25.752, 0, 0, 25.756, 1389.456, 919.282)"><tspan x="0">DESIGNS</tspan></text>
+</svg>
